@@ -1,0 +1,12 @@
+com.virginmoneygiving.connect.sdk.v1
+com.virginmoneygiving.connect.sdk.v1.beans.charity.request
+com.virginmoneygiving.connect.sdk.v1.beans.charity.response
+com.virginmoneygiving.connect.sdk.v1.beans.event.request
+com.virginmoneygiving.connect.sdk.v1.beans.event.response
+com.virginmoneygiving.connect.sdk.v1.beans.fundraiser.request
+com.virginmoneygiving.connect.sdk.v1.beans.fundraiser.response
+com.virginmoneygiving.connect.sdk.v1.exceptions
+com.virginmoneygiving.connect.sdk.v1.messaging
+com.virginmoneygiving.connect.sdk.v1.messaging.charity.response
+com.virginmoneygiving.connect.sdk.v1.messaging.event.response
+com.virginmoneygiving.connect.sdk.v1.messaging.fundraiser.response
